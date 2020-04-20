@@ -1,0 +1,12 @@
+name: omero-scripts
+channels:
+  - conda-forge
+  - ome
+dependencies:
+  - matplotlib
+  - scikit-image
+  - scipy
+  - pip
+  # ome: minimal dependencies required to use the Python API
+  - zeroc-ice36-python
+  - omero-py
