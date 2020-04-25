@@ -1,0 +1,75 @@
+Project Name,Project Id,Dataset Name,Dataset Id,Image Name,Image Id,Image Size X,Image Size Y,Image Size Z,Image Size C,Image Size T
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,10percent-Wt1-GFP-spheroid-MV.czi [0],3414011,1920,1920,2,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,10percent-Wt1-GFP-spheroid-MV.czi [1],3414012,1920,1920,2,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,10percent-Wt1-GFP-spheroid-MV.czi [2],3414013,1920,1920,2,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,10percent-Wt1-GFP-spheroid-MV.czi [3],3414014,1920,1920,2,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,10percent-Wt1-GFP-spheroid-MV.czi [4],3414015,1920,1920,2,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,Lam-Cytok-MV.czi [0],3414016,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,Lam-Cytok-MV.czi [1],3414017,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,Lam-Cytok-MV.czi [2],3414018,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,Lam-Cytok-MV.czi [3],3414019,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,Lam-Cytok-MV.czi [4],3414020,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,wtFK-72hrs-cleared-Nephrin-Calb-PNA-rh-MV-2.czi [0],3414001,1920,1920,2,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,wtFK-72hrs-cleared-Nephrin-Calb-PNA-rh-MV-2.czi [1],3414002,1920,1920,2,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,wtFK-72hrs-cleared-Nephrin-Calb-PNA-rh-MV-2.czi [2],3414003,1920,1920,2,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,wtFK-72hrs-cleared-Nephrin-Calb-PNA-rh-MV-2.czi [3],3414004,1920,1920,2,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,wtFK-72hrs-cleared-Nephrin-Calb-PNA-rh-MV-2.czi [4],3414005,1920,1920,2,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,wtFK-cleared-cytok-nephrin-MV.czi [0],3414006,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,wtFK-cleared-cytok-nephrin-MV.czi [1],3414007,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,wtFK-cleared-cytok-nephrin-MV.czi [2],3414008,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,wtFK-cleared-cytok-nephrin-MV.czi [3],3414009,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Cytokeratin PNA,701,wtFK-cleared-cytok-nephrin-MV.czi [4],3414010,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging glomeruli nephrin,702,100-U-9-MV.czi [0],3414021,1920,1920,8,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging glomeruli nephrin,702,100-U-9-MV.czi [1],3414022,1920,1920,8,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging glomeruli nephrin,702,100-U-9-MV.czi [2],3414023,1920,1920,8,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging glomeruli nephrin,702,100-U-9-MV.czi [3],3414024,1920,1920,8,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging glomeruli nephrin,702,100-U-9-MV.czi [4],3414025,1920,1920,8,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging glomeruli synaptopodin,703,100-U-2-MV.czi [0],3414026,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging glomeruli synaptopodin,703,100-U-2-MV.czi [1],3414027,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging glomeruli synaptopodin,703,100-U-2-MV.czi [2],3414028,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging glomeruli synaptopodin,703,100-U-2-MV.czi [3],3414029,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging glomeruli synaptopodin,703,100-U-2-MV.czi [4],3414030,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,FK-09-MV.czi [0],3414031,1920,1600,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,FK-09-MV.czi [1],3414032,1920,1600,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,FK-09-MV.czi [2],3414033,1920,1600,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,FK-09-MV.czi [3],3414034,1920,1600,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,FK-09-MV.czi [4],3414035,1920,1600,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,GFP-24hrs-2ndy-cleared-MV.czi [0],3414036,1100,1100,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,GFP-24hrs-2ndy-cleared-MV.czi [1],3414037,1100,1100,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,GFP-24hrs-2ndy-cleared-MV.czi [2],3414038,1100,1100,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,GFP-24hrs-2ndy-cleared-MV.czi [3],3414039,1100,1100,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,GFP-24hrs-2ndy-cleared-MV.czi [4],3414040,1100,1100,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,GFP-2hrs-2ndy-uncleared-2_DualSideFusion.czi [0],3414041,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,GFP-2hrs-2ndy-uncleared-2_DualSideFusion.czi [1],3414042,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,GFP-2hrs-2ndy-uncleared-2_DualSideFusion.czi [2],3414043,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,GFP-2hrs-2ndy-uncleared-2_DualSideFusion.czi [3],3414044,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,GFP-2hrs-2ndy-uncleared-2_DualSideFusion.czi [4],3414045,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,whole-kidney-megalin-laminin.czi [0],3414046,1600,1100,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,whole-kidney-megalin-laminin.czi [1],3414047,1600,1100,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,whole-kidney-megalin-laminin.czi [2],3414048,1600,1100,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,whole-kidney-megalin-laminin.czi [3],3414049,1600,1100,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Megalin Laminin,704,whole-kidney-megalin-laminin.czi [4],3414050,1600,1100,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,Pax2-PNArh-large-MV.czi [0],3414054,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,Pax2-PNArh-large-MV.czi [1],3414055,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,Pax2-PNArh-large-MV.czi [2],3414056,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,Pax2-PNArh-large-MV.czi [3],3414057,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,Pax2-PNArh-large-MV.czi [4],3414058,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,Pax2-PNArh-small-MV.czi [0],3414059,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,Pax2-PNArh-small-MV.czi [1],3414060,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,Pax2-PNArh-small-MV.czi [2],3414061,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,Pax2-PNArh-small-MV.czi [3],3414062,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,Pax2-PNArh-small-MV.czi [4],3414063,1920,1920,3,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,Wt1-FK-4-stack.czi,3414051,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,wtFK-72hrs-clearing.czi,3414052,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Pax2 PNA,705,wtFK-cleared-Wt1-Pax2.czi,3414053,1200,1200,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Six2,706,100-U-13-Six2-PNA-Synpo-MV-with-beads.czi [0],3414064,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Six2,706,100-U-13-Six2-PNA-Synpo-MV-with-beads.czi [1],3414065,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Six2,706,100-U-13-Six2-PNA-Synpo-MV-with-beads.czi [2],3414066,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Six2,706,100-U-13-Six2-PNA-Synpo-MV-with-beads.czi [3],3414067,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Six2,706,100-U-13-Six2-PNA-Synpo-MV-with-beads.czi [4],3414068,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Wt1-GFP knock-in,707,100-U-14-Six2-PNA-Synpo-MV.czi [0],3414070,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Wt1-GFP knock-in,707,100-U-14-Six2-PNA-Synpo-MV.czi [1],3414071,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Wt1-GFP knock-in,707,100-U-14-Six2-PNA-Synpo-MV.czi [2],3414072,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Wt1-GFP knock-in,707,100-U-14-Six2-PNA-Synpo-MV.czi [3],3414073,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Wt1-GFP knock-in,707,100-U-14-Six2-PNA-Synpo-MV.czi [4],3414074,1920,1920,4,1
+idr0038-held-kidneylightsheet/experimentA,351,endpoint imaging Wt1-GFP knock-in,707,GFP+-fixed-cleared_DualSideFusion.czi,3414069,1920,1920,2,1
